@@ -2,6 +2,10 @@
 A desktop app 💻 to help with everyday tasks 🔥
 
 
-Clone
+## Clone
+
+```
+ git clone
+```
 
 Install
