@@ -11,7 +11,7 @@ A desktop app 💻 to help with everyday tasks 🔥
  git clone https://github.com/IamThiago-IT/Electron-js.git
 ```
 
-Install
+## Install
 ```
  npm install
 ```
