@@ -22,7 +22,7 @@ Yarn install
 
 ## Documentation
 ```
- [](https://www.electronjs.org/docs)
+ [Docs](https://www.electronjs.org/docs)
 ```
 ##
 ```
