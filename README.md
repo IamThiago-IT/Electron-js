@@ -15,7 +15,7 @@ A desktop app 💻 to help with everyday tasks 🔥
 ```
  npm install
 ```
-Yarn
+Yarn install
 ## Documentation
 ```
  https://www.electronjs.org/docs
