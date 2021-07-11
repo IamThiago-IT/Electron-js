@@ -24,7 +24,3 @@ Yarn install
  [Docs](https://www.electronjs.org/docs)
 
 ---
-## start
-```
- https://www.electronjs.org/docs/tutorial/quick-start
-```
