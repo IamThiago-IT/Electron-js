@@ -19,4 +19,4 @@ A desktop app 💻 to help with everyday tasks 🔥
 Yarn install
 ```
 ## Documentation
- [Docs](https://www.electronjs.org/docs)
+ [Docs](https://www.electronjs.org/)
